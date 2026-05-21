@@ -1,5 +1,0 @@
-C:/Users/HP/Desktop/The Cave/Software/PortableGit/AR-VR/.utmp/RelWithDebInfo/6g3u5o2m/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/Users/HP/Desktop/The Cave/Software/PortableGit/AR-VR/.utmp/RelWithDebInfo/6g3u5o2m/arm64-v8a/CMakeFiles/rebuild_cache.dir
-C:/Users/HP/Desktop/The Cave/Software/PortableGit/AR-VR/.utmp/RelWithDebInfo/6g3u5o2m/arm64-v8a/GameActivity/CMakeFiles/game.dir
-C:/Users/HP/Desktop/The Cave/Software/PortableGit/AR-VR/.utmp/RelWithDebInfo/6g3u5o2m/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
-C:/Users/HP/Desktop/The Cave/Software/PortableGit/AR-VR/.utmp/RelWithDebInfo/6g3u5o2m/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
