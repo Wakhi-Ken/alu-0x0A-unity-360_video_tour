@@ -516,3 +516,88 @@ Received Import Request.
 Start importing Assets/Material/CantinaMat.mat using Guid(71674ab0cb00c0f4b8c9f338f771367a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '2c468c3ff98f1cbd5e2fca7adb84f055') in 0.0271502 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b51f122514642167e38ff6a1349a9c37 DependenciesID=1ce59b45a0840b00c420b1844fea8065 StaticDependenciesID=27029c9c047d82319a7ba7b3c88e1431 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 540.693583 seconds.
+  path: Assets/UI/Button.png
+  importAddress: Guid(7ae87d8f2fb3f3444818be1f5ee1d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Button.png using Guid(7ae87d8f2fb3f3444818be1f5ee1d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-Z77G-GUJ6-5JSC-QZYE-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 11270629817070-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-Z77G-GUJ6-5JSC-QZYE-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 11270629817070-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-Z77G-GUJ6-5JSC-QZYE-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 11270629817070-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+ -> (Import Result ID: '170e417a9ada6be03f3535ebbfa16cc3') in 0.071694 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=318cc016e4284be3c70d4300fdc03414 DependenciesID=2d50946855bf849daa1a9332dd8e890f StaticDependenciesID=3a7c57a8b3980b1414499f326c339ab1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.455532 seconds.
+  path: Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF.asset
+  importAddress: Guid(f675742eaf9c20a4f909d78ee7a14fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF.asset using Guid(f675742eaf9c20a4f909d78ee7a14fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ac8083f052f5270d194d9ad4b491726a') in 0.0654587 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2210f1f58088c83915f651d63838ae3a DependenciesID=473dbc21d09ca785bcbc7eb6149ace72 StaticDependenciesID=e55ade255a77df56f304f79640e6d898 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  importAddress: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'b68f54044f5021091f72d141ffc3ebdf') in 0.0899026 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=791ae50f9037dcf6921aa21a918b3f27 DependenciesID=ef509c38ee353802b48dc3fc31d23598 StaticDependenciesID=1798508d3b037c4b8347f72def82000c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.352080 seconds.
+  path: Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular.ttf
+  importAddress: Guid(78c7f42a7547f22448a621eaeeef3fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular.ttf using Guid(78c7f42a7547f22448a621eaeeef3fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a2c3eda81a2777954949e943d7067177') in 0.0341213 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7791ce8beeb361d63ace9959c9aaa227 DependenciesID=64da6ae7623c05b39985aa171093faa0 StaticDependenciesID=4d7d55a2ed64cafab68b6133ca004ff7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF Overlay Material.mat
+  importAddress: Guid(c5340088affa7b6418a70a596e608408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF Overlay Material.mat using Guid(c5340088affa7b6418a70a596e608408) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ccdc41cce9c5f9c26143a982c82b8a46') in 0.0308551 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d5e99823fa8bff524d27d28cffe24dc1 DependenciesID=737ce273d444e1eec08ec29975769e85 StaticDependenciesID=de2b26ecaa4c3330231bb90f6148bc4c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF Overlay Outline Material.mat
+  importAddress: Guid(69cb2ba794a087b4abdf1b00110f8c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF Overlay Outline Material.mat using Guid(69cb2ba794a087b4abdf1b00110f8c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '73331cb9b92ee43f7afdff8606460c3d') in 0.0299113 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=924841813a2bd3846fbbc663c400e47c DependenciesID=c4a84e6ba4ae217dd90c72a824437f94 StaticDependenciesID=812978eb522e9b04a0e89cb9b6a8ce36 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

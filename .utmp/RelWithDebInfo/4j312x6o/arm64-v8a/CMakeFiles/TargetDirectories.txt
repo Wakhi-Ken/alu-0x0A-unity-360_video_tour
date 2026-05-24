@@ -1,0 +1,5 @@
+C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/.utmp/RelWithDebInfo/4j312x6o/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/.utmp/RelWithDebInfo/4j312x6o/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/.utmp/RelWithDebInfo/4j312x6o/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/.utmp/RelWithDebInfo/4j312x6o/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/.utmp/RelWithDebInfo/4j312x6o/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
