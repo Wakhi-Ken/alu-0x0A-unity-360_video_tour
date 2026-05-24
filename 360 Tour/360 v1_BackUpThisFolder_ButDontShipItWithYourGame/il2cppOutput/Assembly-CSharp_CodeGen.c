@@ -7,8 +7,9 @@
 
 
 
-extern void Switch_SwitchRooms_m913AE26BEBE075CD91E0F079C3E8E740A24E1CCB (void);
-extern void Switch__ctor_m5B451533A9E45C8B5AEF4629DE69167757044B92 (void);
+extern void SceneLoader_Load360Scene_mFC6BFD6B0510E0E61E646FEBF00EA440581431B2 (void);
+extern void SceneLoader_LoadCustomScene_m011C4825BBAC3E7FAF1CA1FCCE2F2872558F23F9 (void);
+extern void SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
 extern void AnchorVisuals_Start_m84A5BBC02FFBE8BF40D0A3E2D7B36D1FD701DED6 (void);
@@ -158,10 +159,11 @@ extern void XRPokeFollowAffordanceFill_OnTransformTweenableVariableUpdated_m8B3C
 extern void XRPokeFollowAffordanceFill_OnPokeStrengthChanged_m480B681A9BE7B6C71724392FC3368A029EA4CED6 (void);
 extern void XRPokeFollowAffordanceFill_OnPokeStateDataUpdated_m6233708D9CEEA9A7920B821FDBD306F4D7CBFAE6 (void);
 extern void XRPokeFollowAffordanceFill__ctor_mAED1746F6E90C5676967671BFBB11E3B7C6B1E98 (void);
-static Il2CppMethodPointer s_methodPointers[151] = 
+static Il2CppMethodPointer s_methodPointers[152] = 
 {
-	Switch_SwitchRooms_m913AE26BEBE075CD91E0F079C3E8E740A24E1CCB,
-	Switch__ctor_m5B451533A9E45C8B5AEF4629DE69167757044B92,
+	SceneLoader_Load360Scene_mFC6BFD6B0510E0E61E646FEBF00EA440581431B2,
+	SceneLoader_LoadCustomScene_m011C4825BBAC3E7FAF1CA1FCCE2F2872558F23F9,
+	SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
 	AnchorVisuals_Start_m84A5BBC02FFBE8BF40D0A3E2D7B36D1FD701DED6,
@@ -318,16 +320,17 @@ extern void TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F03
 extern void TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk (void);
 static Il2CppTokenAdjustorThunkPair s_adjustorThunks[4] = 
 {
-	{ 0x0600007B, TrackedRotation_get_totalOffset_mC129829FFE6CDD96C8885030BDAEF40D569F06C8_AdjustorThunk },
-	{ 0x0600007C, TrackedRotation_Reset_m54545DE2D01827833956AEC4324C136A0CB72425_AdjustorThunk },
-	{ 0x0600007D, TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F033F1D26E_AdjustorThunk },
-	{ 0x0600007E, TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk },
+	{ 0x0600007C, TrackedRotation_get_totalOffset_mC129829FFE6CDD96C8885030BDAEF40D569F06C8_AdjustorThunk },
+	{ 0x0600007D, TrackedRotation_Reset_m54545DE2D01827833956AEC4324C136A0CB72425_AdjustorThunk },
+	{ 0x0600007E, TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F033F1D26E_AdjustorThunk },
+	{ 0x0600007F, TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk },
 };
-static const int32_t s_InvokerIndices[151] = 
+static const int32_t s_InvokerIndices[152] = 
 {
 	17901,
 	17901,
-	30745,
+	17901,
+	30746,
 	17901,
 	17901,
 	17901,
@@ -382,7 +385,7 @@ static const int32_t s_InvokerIndices[151] =
 	17901,
 	17901,
 	17901,
-	28441,
+	28442,
 	17901,
 	17901,
 	13523,
@@ -481,7 +484,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	151,
+	152,
 	s_methodPointers,
 	4,
 	s_adjustorThunks,
