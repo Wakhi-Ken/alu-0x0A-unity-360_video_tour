@@ -364,15 +364,15 @@ IL2CPP_EXTERN_C RuntimeClass* XRBaseInteractable_t76185BD6DF3BC86B3CDD82E6368C3C
 IL2CPP_EXTERN_C RuntimeClass* XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____54222393316FF2D846727B8DD6C5D0C37DBECF44784BE8E822BF4D3A39BB6914_FieldInfo_var;
 IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____65402E353BF741F24D672283550295EAA5E3A587458AD807C9D96497CDBF0732_FieldInfo_var;
-IL2CPP_EXTERN_C String_t* _stringLiteral0C10E47675493434D04CD8025C8303AF94F7BA5A;
-IL2CPP_EXTERN_C String_t* _stringLiteral2732277E9D8A4846B7023B9ABCA3C260EFCD3ABA;
+IL2CPP_EXTERN_C String_t* _stringLiteral028FACF80E052870874038642F78B9BF75689F99;
 IL2CPP_EXTERN_C String_t* _stringLiteral4269EF0D25F409E82DB7814704F598C7FE9DEE90;
 IL2CPP_EXTERN_C String_t* _stringLiteral525F5C8DBE02A4413AF96F338A4166104DA95AE4;
+IL2CPP_EXTERN_C String_t* _stringLiteral54F48823060A5886D12558C4BBB0CDBB0E83F58A;
 IL2CPP_EXTERN_C String_t* _stringLiteral675D495E61C139628601D1F560A558803C58CB67;
 IL2CPP_EXTERN_C String_t* _stringLiteral684F9F5743C3D1DE5AF358333F20040FBA298574;
+IL2CPP_EXTERN_C String_t* _stringLiteral721A6D3801ADF5781359DC0119C39EB378BAA19C;
+IL2CPP_EXTERN_C String_t* _stringLiteral78795110ABE3D2BAC59854218745A52F1FF88161;
 IL2CPP_EXTERN_C String_t* _stringLiteral8F8BFCFC439A636B20C06C334A493AB7004843ED;
-IL2CPP_EXTERN_C String_t* _stringLiteralCCCDD19BAC8E228E10128C1D017E557BF3B69BEA;
-IL2CPP_EXTERN_C String_t* _stringLiteralF7C82E40FF799723F3800744293DF4D6537EDED0;
 IL2CPP_EXTERN_C const RuntimeMethod* BezierCurve_OnBeforeRender_mAC5F36C0A5EA622C0E30384A7ADE90D72BB535F3_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* BindableVariableBase_1_Subscribe_m51C1D8B9E6F2F7B55B07D4E5DF6C43DCAF237CFD_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* BindableVariableBase_1_Subscribe_mC4E18EDA53B1AF95B57D4D6976353EC198EA6608_RuntimeMethod_var;
@@ -3747,14 +3747,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ButtonAnimation_PlayAnimation_m1D258896B
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralCCCDD19BAC8E228E10128C1D017E557BF3B69BEA);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral54F48823060A5886D12558C4BBB0CDBB0E83F58A);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
 		//<source_info:C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/Assets/Scripts/ButtonAnimation.cs:9>
 		Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* L_0 = __this->___animator;
 		NullCheck(L_0);
-		Animator_Play_m0F6A9F84B2E256E644D56C34A7A9BD622CB00FF9(L_0, _stringLiteralCCCDD19BAC8E228E10128C1D017E557BF3B69BEA, NULL);
+		Animator_Play_m0F6A9F84B2E256E644D56C34A7A9BD622CB00FF9(L_0, _stringLiteral54F48823060A5886D12558C4BBB0CDBB0E83F58A, NULL);
 		//<source_info:C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/Assets/Scripts/ButtonAnimation.cs:10>
 		return;
 	}
@@ -4055,13 +4055,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SceneLoader_Load360Scene_mFC6BFD6B0510E0
 	if (!s_Il2CppMethodInitialized)
 	{
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SceneManager_tA0EF56A88ACA4A15731AF7FDC10A869FA4C698FA_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralF7C82E40FF799723F3800744293DF4D6537EDED0);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral721A6D3801ADF5781359DC0119C39EB378BAA19C);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
 		//<source_info:C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/Assets/Scripts/SceneLoader.cs:31>
 		il2cpp_codegen_runtime_class_init_inline(SceneManager_tA0EF56A88ACA4A15731AF7FDC10A869FA4C698FA_il2cpp_TypeInfo_var);
-		SceneManager_LoadScene_mBB3DBC1601A21F8F4E8A5D68FED30EA9412F218E(_stringLiteralF7C82E40FF799723F3800744293DF4D6537EDED0, NULL);
+		SceneManager_LoadScene_mBB3DBC1601A21F8F4E8A5D68FED30EA9412F218E(_stringLiteral721A6D3801ADF5781359DC0119C39EB378BAA19C, NULL);
 		//<source_info:C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/Assets/Scripts/SceneLoader.cs:32>
 		return;
 	}
@@ -4073,13 +4073,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SceneLoader_LoadCustomScene_m011C4825BBA
 	if (!s_Il2CppMethodInitialized)
 	{
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SceneManager_tA0EF56A88ACA4A15731AF7FDC10A869FA4C698FA_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral2732277E9D8A4846B7023B9ABCA3C260EFCD3ABA);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral78795110ABE3D2BAC59854218745A52F1FF88161);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
 		//<source_info:C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/Assets/Scripts/SceneLoader.cs:36>
 		il2cpp_codegen_runtime_class_init_inline(SceneManager_tA0EF56A88ACA4A15731AF7FDC10A869FA4C698FA_il2cpp_TypeInfo_var);
-		SceneManager_LoadScene_mBB3DBC1601A21F8F4E8A5D68FED30EA9412F218E(_stringLiteral2732277E9D8A4846B7023B9ABCA3C260EFCD3ABA, NULL);
+		SceneManager_LoadScene_mBB3DBC1601A21F8F4E8A5D68FED30EA9412F218E(_stringLiteral78795110ABE3D2BAC59854218745A52F1FF88161, NULL);
 		//<source_info:C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/Assets/Scripts/SceneLoader.cs:37>
 		return;
 	}
@@ -4091,13 +4091,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SceneLoader_LoadStartMenu_m703F3864109B6
 	if (!s_Il2CppMethodInitialized)
 	{
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SceneManager_tA0EF56A88ACA4A15731AF7FDC10A869FA4C698FA_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral0C10E47675493434D04CD8025C8303AF94F7BA5A);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral028FACF80E052870874038642F78B9BF75689F99);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
 		//<source_info:C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/Assets/Scripts/SceneLoader.cs:41>
 		il2cpp_codegen_runtime_class_init_inline(SceneManager_tA0EF56A88ACA4A15731AF7FDC10A869FA4C698FA_il2cpp_TypeInfo_var);
-		SceneManager_LoadScene_mBB3DBC1601A21F8F4E8A5D68FED30EA9412F218E(_stringLiteral0C10E47675493434D04CD8025C8303AF94F7BA5A, NULL);
+		SceneManager_LoadScene_mBB3DBC1601A21F8F4E8A5D68FED30EA9412F218E(_stringLiteral028FACF80E052870874038642F78B9BF75689F99, NULL);
 		//<source_info:C:/Users/HP/Desktop/alu-0x0A-unity-360_video_tourrr/Assets/Scripts/SceneLoader.cs:42>
 		return;
 	}

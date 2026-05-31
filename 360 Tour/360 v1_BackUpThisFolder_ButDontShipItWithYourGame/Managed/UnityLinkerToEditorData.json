@@ -17,9 +17,9 @@
           {
             "name": "AnimationClip",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -27,9 +27,9 @@
           {
             "name": "Animator",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -37,9 +37,9 @@
           {
             "name": "AnimatorController",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -81,25 +81,27 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AudioClip",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/CustomCampusTourScene.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -112,13 +114,17 @@
           },
           {
             "name": "AudioResource",
-            "scenes": [],
-            "dependencyType": 1,
+            "scenes": [
+              "Assets/Scenes/CustomCampusTourScene.unity"
+            ],
+            "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AudioSource",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/CustomCampusTourScene.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -154,9 +160,9 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -176,9 +182,9 @@
           {
             "name": "Cubemap",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -198,9 +204,9 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -214,9 +220,9 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -248,9 +254,9 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -258,9 +264,9 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -286,9 +292,9 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -296,9 +302,9 @@
           {
             "name": "LineRenderer",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -312,9 +318,9 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -322,9 +328,9 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -332,9 +338,9 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -342,9 +348,9 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -352,9 +358,9 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -368,9 +374,9 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -378,9 +384,9 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -418,9 +424,9 @@
           {
             "name": "RectTransform",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -434,9 +440,9 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -444,7 +450,7 @@
           {
             "name": "RenderTexture",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity"
+              "Assets/Scenes/IntranetTourScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -470,9 +476,9 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -486,9 +492,9 @@
           {
             "name": "SkinnedMeshRenderer",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -502,9 +508,9 @@
           {
             "name": "SortingGroup",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -512,9 +518,9 @@
           {
             "name": "Sprite",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1049,7 +1055,8 @@
           {
             "name": "BoxCollider",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1063,9 +1070,9 @@
           {
             "name": "CharacterController",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1079,9 +1086,9 @@
           {
             "name": "MeshCollider",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1761,7 +1768,7 @@
           {
             "name": "Font",
             "scenes": [
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1804,9 +1811,9 @@
           {
             "name": "Canvas",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1820,9 +1827,9 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity",
-              "Assets/Scenes/Menu.unity"
+              "Assets/Scenes/CustomCampusTourScene.unity",
+              "Assets/Scenes/IntranetTourScene.unity",
+              "Assets/Scenes/MainMenuScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -2012,7 +2019,7 @@
           {
             "name": "VideoClip",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity"
+              "Assets/Scenes/IntranetTourScene.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -2020,8 +2027,7 @@
           {
             "name": "VideoPlayer",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
-              "Assets/Scenes/Custom.unity"
+              "Assets/Scenes/IntranetTourScene.unity"
             ],
             "dependencyType": 0,
             "icon": null

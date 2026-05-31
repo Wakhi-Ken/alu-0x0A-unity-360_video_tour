@@ -9,10 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
+    path: Assets/Scenes/MainMenuScene.unity
     guid: 8be6d76cb16514e4da45bb235d9bfefd
   - enabled: 1
-    path: Assets/Scenes/Custom.unity
+    path: Assets/Scenes/CustomCampusTourScene.unity
     guid: 76aaa598a77a0364db917b83fb55d0ab
   - enabled: 1
     path: Assets/Scenes/IntranetTourScene.unity

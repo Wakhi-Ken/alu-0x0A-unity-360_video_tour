@@ -33,11 +33,11 @@ public class SceneLoader : MonoBehaviour
 
     public void LoadCustomScene()
     {
-        SceneManager.LoadScene("Custom");
+        SceneManager.LoadScene("CustomCampusTourScene");
     }
 
     public void LoadStartMenu()
     {
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("MainMenuScene");
     }
 }
