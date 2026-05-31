@@ -19,7 +19,7 @@ public class SceneLoader : MonoBehaviour
 
     private void Update()
     {
-        // B button (Right Controller Secondary Button)
+        // B button (left Controller Secondary Button)
         if (backButton.action != null && backButton.action.WasPressedThisFrame())
         {
             LoadStartMenu();
