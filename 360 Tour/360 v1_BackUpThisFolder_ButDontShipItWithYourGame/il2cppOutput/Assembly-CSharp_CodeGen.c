@@ -7,8 +7,6 @@
 
 
 
-extern void ButtonAnimation_PlayAnimation_m1D258896BCA683177774F27E3397DCDFE9A425A9 (void);
-extern void ButtonAnimation__ctor_mD47AB83B5B8F4CF8E358D15CFD87D8777AC9173A (void);
 extern void Hover_ShowPanel_mF73CB9B6359D0768080A77015545FBEC4FE682B7 (void);
 extern void Hover_HideAfterSeconds_mD540B54E8663350EDCAB807E862610299ABCBD3E (void);
 extern void Hover__ctor_m7D833E5D71789D6402E2D7CF6B7C72D827419B34 (void);
@@ -25,6 +23,15 @@ extern void SceneLoader_Load360Scene_mFC6BFD6B0510E0E61E646FEBF00EA440581431B2 (
 extern void SceneLoader_LoadCustomScene_m011C4825BBAC3E7FAF1CA1FCCE2F2872558F23F9 (void);
 extern void SceneLoader_LoadStartMenu_m703F3864109B6F5C0C9F9C71FB13F1E57D26DF54 (void);
 extern void SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29 (void);
+extern void TransitionManager_SwitchTo_mB6D446E1F2B1D850200544276214FD1598ACE14E (void);
+extern void TransitionManager_Transition_mE186AA66366A85D3FDACF358DA04250E8802E4A9 (void);
+extern void TransitionManager__ctor_m5F137B958E7C864CD12FD4D43873D0295E60F979 (void);
+extern void U3CTransitionU3Ed__4__ctor_mE4F20433493EADB734DC9FB68CA62EAA7BA20C7B (void);
+extern void U3CTransitionU3Ed__4_System_IDisposable_Dispose_m203C3DA8B960EAEFC8058B3EEAC2FE600B66DD83 (void);
+extern void U3CTransitionU3Ed__4_MoveNext_mD035782B03D021C99FF2D6B7692D481715EA31B0 (void);
+extern void U3CTransitionU3Ed__4_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m2A2A220B1C6D875BA6BBC9E80C68018033E98116 (void);
+extern void U3CTransitionU3Ed__4_System_Collections_IEnumerator_Reset_mA67F6FD9CB49516B34D359815E836616867A5801 (void);
+extern void U3CTransitionU3Ed__4_System_Collections_IEnumerator_get_Current_m0D1F547309D44000E0198D5AD7790D9A06DCF3D8 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
 extern void AnchorVisuals_Start_m84A5BBC02FFBE8BF40D0A3E2D7B36D1FD701DED6 (void);
@@ -174,10 +181,8 @@ extern void XRPokeFollowAffordanceFill_OnTransformTweenableVariableUpdated_m8B3C
 extern void XRPokeFollowAffordanceFill_OnPokeStrengthChanged_m480B681A9BE7B6C71724392FC3368A029EA4CED6 (void);
 extern void XRPokeFollowAffordanceFill_OnPokeStateDataUpdated_m6233708D9CEEA9A7920B821FDBD306F4D7CBFAE6 (void);
 extern void XRPokeFollowAffordanceFill__ctor_mAED1746F6E90C5676967671BFBB11E3B7C6B1E98 (void);
-static Il2CppMethodPointer s_methodPointers[167] = 
+static Il2CppMethodPointer s_methodPointers[174] = 
 {
-	ButtonAnimation_PlayAnimation_m1D258896BCA683177774F27E3397DCDFE9A425A9,
-	ButtonAnimation__ctor_mD47AB83B5B8F4CF8E358D15CFD87D8777AC9173A,
 	Hover_ShowPanel_mF73CB9B6359D0768080A77015545FBEC4FE682B7,
 	Hover_HideAfterSeconds_mD540B54E8663350EDCAB807E862610299ABCBD3E,
 	Hover__ctor_m7D833E5D71789D6402E2D7CF6B7C72D827419B34,
@@ -194,6 +199,15 @@ static Il2CppMethodPointer s_methodPointers[167] =
 	SceneLoader_LoadCustomScene_m011C4825BBAC3E7FAF1CA1FCCE2F2872558F23F9,
 	SceneLoader_LoadStartMenu_m703F3864109B6F5C0C9F9C71FB13F1E57D26DF54,
 	SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29,
+	TransitionManager_SwitchTo_mB6D446E1F2B1D850200544276214FD1598ACE14E,
+	TransitionManager_Transition_mE186AA66366A85D3FDACF358DA04250E8802E4A9,
+	TransitionManager__ctor_m5F137B958E7C864CD12FD4D43873D0295E60F979,
+	U3CTransitionU3Ed__4__ctor_mE4F20433493EADB734DC9FB68CA62EAA7BA20C7B,
+	U3CTransitionU3Ed__4_System_IDisposable_Dispose_m203C3DA8B960EAEFC8058B3EEAC2FE600B66DD83,
+	U3CTransitionU3Ed__4_MoveNext_mD035782B03D021C99FF2D6B7692D481715EA31B0,
+	U3CTransitionU3Ed__4_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m2A2A220B1C6D875BA6BBC9E80C68018033E98116,
+	U3CTransitionU3Ed__4_System_Collections_IEnumerator_Reset_mA67F6FD9CB49516B34D359815E836616867A5801,
+	U3CTransitionU3Ed__4_System_Collections_IEnumerator_get_Current_m0D1F547309D44000E0198D5AD7790D9A06DCF3D8,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
 	AnchorVisuals_Start_m84A5BBC02FFBE8BF40D0A3E2D7B36D1FD701DED6,
@@ -350,15 +364,13 @@ extern void TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F03
 extern void TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk (void);
 static Il2CppTokenAdjustorThunkPair s_adjustorThunks[4] = 
 {
-	{ 0x0600008B, TrackedRotation_get_totalOffset_mC129829FFE6CDD96C8885030BDAEF40D569F06C8_AdjustorThunk },
-	{ 0x0600008C, TrackedRotation_Reset_m54545DE2D01827833956AEC4324C136A0CB72425_AdjustorThunk },
-	{ 0x0600008D, TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F033F1D26E_AdjustorThunk },
-	{ 0x0600008E, TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk },
+	{ 0x06000092, TrackedRotation_get_totalOffset_mC129829FFE6CDD96C8885030BDAEF40D569F06C8_AdjustorThunk },
+	{ 0x06000093, TrackedRotation_Reset_m54545DE2D01827833956AEC4324C136A0CB72425_AdjustorThunk },
+	{ 0x06000094, TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F033F1D26E_AdjustorThunk },
+	{ 0x06000095, TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk },
 };
-static const int32_t s_InvokerIndices[167] = 
+static const int32_t s_InvokerIndices[174] = 
 {
-	17901,
-	17901,
 	17901,
 	17683,
 	17901,
@@ -375,7 +387,16 @@ static const int32_t s_InvokerIndices[167] =
 	17901,
 	17901,
 	17901,
-	30747,
+	13449,
+	11597,
+	17901,
+	13449,
+	17901,
+	17469,
+	17683,
+	17901,
+	17683,
+	30746,
 	17901,
 	17901,
 	17901,
@@ -430,7 +451,7 @@ static const int32_t s_InvokerIndices[167] =
 	17901,
 	17901,
 	17901,
-	28443,
+	28442,
 	17901,
 	17901,
 	13523,
@@ -491,7 +512,7 @@ static const int32_t s_InvokerIndices[167] =
 	13621,
 	17794,
 	17901,
-	22244,
+	22243,
 	17901,
 	17901,
 	17901,
@@ -529,7 +550,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	167,
+	174,
 	s_methodPointers,
 	4,
 	s_adjustorThunks,
