@@ -1,6 +1,6 @@
 # Extended 360 VR Tour
 
-![Extended 360 VR Tour](https://github.com/user-attachments/assets/67a43fb5-5ea2-47c5-8b41-f53244b95180)
+<img width="593" height="356" alt="Screenshot 2026-05-31 184346" src="https://github.com/user-attachments/assets/b91a5128-3e21-4283-aa3d-2c07dff57a85" />
 
 ## Folder Structure
 
