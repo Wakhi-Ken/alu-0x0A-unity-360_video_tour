@@ -28,7 +28,7 @@ public class SceneLoader : MonoBehaviour
 
     public void Load360Scene()
     {
-        SceneManager.LoadScene("360VideoTour");
+        SceneManager.LoadScene("IntranetTourScene");
     }
 
     public void LoadCustomScene()
