@@ -9,6 +9,10 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
+	"picker_window_position_offset.00000000" = "119;64;320;550"
+	"picker_visibility_flags.00000000" = "0"
+	"picker_item_size.00000000" = "32"
+	"picker_inspector.00000000" = "0"
 }
 providers = {
 	asset = {
@@ -65,6 +69,14 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	""
+	"AssetsInputActionReferenceSearchProvider:"
+	"XRI Default Input Actions"
+	"x"
+	"using UnityEngine; using UnityEngine.SceneManagement; using UnityEngine.InputSystem; public class SceneLoader : MonoBehaviour { [Header(\"Input Actions\")] public InputActionProperty backButton; private void OnEnable() { backButton.action?.Enable(); } private void OnDisable() { backButton.action?.Disable(); } private void Update() { // B button (Right Controller Secondary Button) if (backButton.action != null && backButton.action.WasPressedThisFrame()) { LoadStartMenu(); } } public void Load360Scene() { SceneManager.LoadScene(\"360VideoTour\"); } public void LoadCustomScene() { SceneManager.LoadScene(\"Custom\"); } public void LoadStartMenu() { SceneManager.LoadScene(\"Menu\"); } }"
+	"XRI RightHand"
+	"xri r"
+	"XRI RightHand Interaction"
 ]
 searchItemFavorites = [
 ]

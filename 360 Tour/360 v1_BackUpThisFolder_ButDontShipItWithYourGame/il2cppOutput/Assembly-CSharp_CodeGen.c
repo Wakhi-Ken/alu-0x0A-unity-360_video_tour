@@ -7,8 +7,23 @@
 
 
 
+extern void ButtonAnimation_PlayAnimation_m1D258896BCA683177774F27E3397DCDFE9A425A9 (void);
+extern void ButtonAnimation__ctor_mD47AB83B5B8F4CF8E358D15CFD87D8777AC9173A (void);
+extern void Hover_ShowPanel_mF73CB9B6359D0768080A77015545FBEC4FE682B7 (void);
+extern void Hover_HideAfterSeconds_mD540B54E8663350EDCAB807E862610299ABCBD3E (void);
+extern void Hover__ctor_m7D833E5D71789D6402E2D7CF6B7C72D827419B34 (void);
+extern void U3CHideAfterSecondsU3Ed__3__ctor_m2CB1A38B9A512AE295F6AA47949950D52B9F7C27 (void);
+extern void U3CHideAfterSecondsU3Ed__3_System_IDisposable_Dispose_mE4274BAC890C188A15CF0C1CA86420006C0A3BDD (void);
+extern void U3CHideAfterSecondsU3Ed__3_MoveNext_m495415BC6026E8B1D42895E5374209EAE3830CB7 (void);
+extern void U3CHideAfterSecondsU3Ed__3_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m9B61B6076AF935FFCBBF98A9E0D0107123EF04BD (void);
+extern void U3CHideAfterSecondsU3Ed__3_System_Collections_IEnumerator_Reset_mF4E2C72EDABF659978A606D4D96E2EA4960E1A32 (void);
+extern void U3CHideAfterSecondsU3Ed__3_System_Collections_IEnumerator_get_Current_m9195B95D02D6090E472E45E43FEF88CE43E919A0 (void);
+extern void SceneLoader_OnEnable_m62456D1C83E3E5D45650B8BE079648F0C31060F4 (void);
+extern void SceneLoader_OnDisable_m4E27F5188A23559DFA604BB10B54944896BF2489 (void);
+extern void SceneLoader_Update_m1F381D68B1B1F69A0F9A5876813BB7D437E3A713 (void);
 extern void SceneLoader_Load360Scene_mFC6BFD6B0510E0E61E646FEBF00EA440581431B2 (void);
 extern void SceneLoader_LoadCustomScene_m011C4825BBAC3E7FAF1CA1FCCE2F2872558F23F9 (void);
+extern void SceneLoader_LoadStartMenu_m703F3864109B6F5C0C9F9C71FB13F1E57D26DF54 (void);
 extern void SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
@@ -159,10 +174,25 @@ extern void XRPokeFollowAffordanceFill_OnTransformTweenableVariableUpdated_m8B3C
 extern void XRPokeFollowAffordanceFill_OnPokeStrengthChanged_m480B681A9BE7B6C71724392FC3368A029EA4CED6 (void);
 extern void XRPokeFollowAffordanceFill_OnPokeStateDataUpdated_m6233708D9CEEA9A7920B821FDBD306F4D7CBFAE6 (void);
 extern void XRPokeFollowAffordanceFill__ctor_mAED1746F6E90C5676967671BFBB11E3B7C6B1E98 (void);
-static Il2CppMethodPointer s_methodPointers[152] = 
+static Il2CppMethodPointer s_methodPointers[167] = 
 {
+	ButtonAnimation_PlayAnimation_m1D258896BCA683177774F27E3397DCDFE9A425A9,
+	ButtonAnimation__ctor_mD47AB83B5B8F4CF8E358D15CFD87D8777AC9173A,
+	Hover_ShowPanel_mF73CB9B6359D0768080A77015545FBEC4FE682B7,
+	Hover_HideAfterSeconds_mD540B54E8663350EDCAB807E862610299ABCBD3E,
+	Hover__ctor_m7D833E5D71789D6402E2D7CF6B7C72D827419B34,
+	U3CHideAfterSecondsU3Ed__3__ctor_m2CB1A38B9A512AE295F6AA47949950D52B9F7C27,
+	U3CHideAfterSecondsU3Ed__3_System_IDisposable_Dispose_mE4274BAC890C188A15CF0C1CA86420006C0A3BDD,
+	U3CHideAfterSecondsU3Ed__3_MoveNext_m495415BC6026E8B1D42895E5374209EAE3830CB7,
+	U3CHideAfterSecondsU3Ed__3_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m9B61B6076AF935FFCBBF98A9E0D0107123EF04BD,
+	U3CHideAfterSecondsU3Ed__3_System_Collections_IEnumerator_Reset_mF4E2C72EDABF659978A606D4D96E2EA4960E1A32,
+	U3CHideAfterSecondsU3Ed__3_System_Collections_IEnumerator_get_Current_m9195B95D02D6090E472E45E43FEF88CE43E919A0,
+	SceneLoader_OnEnable_m62456D1C83E3E5D45650B8BE079648F0C31060F4,
+	SceneLoader_OnDisable_m4E27F5188A23559DFA604BB10B54944896BF2489,
+	SceneLoader_Update_m1F381D68B1B1F69A0F9A5876813BB7D437E3A713,
 	SceneLoader_Load360Scene_mFC6BFD6B0510E0E61E646FEBF00EA440581431B2,
 	SceneLoader_LoadCustomScene_m011C4825BBAC3E7FAF1CA1FCCE2F2872558F23F9,
+	SceneLoader_LoadStartMenu_m703F3864109B6F5C0C9F9C71FB13F1E57D26DF54,
 	SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
@@ -320,17 +350,32 @@ extern void TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F03
 extern void TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk (void);
 static Il2CppTokenAdjustorThunkPair s_adjustorThunks[4] = 
 {
-	{ 0x0600007C, TrackedRotation_get_totalOffset_mC129829FFE6CDD96C8885030BDAEF40D569F06C8_AdjustorThunk },
-	{ 0x0600007D, TrackedRotation_Reset_m54545DE2D01827833956AEC4324C136A0CB72425_AdjustorThunk },
-	{ 0x0600007E, TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F033F1D26E_AdjustorThunk },
-	{ 0x0600007F, TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk },
+	{ 0x0600008B, TrackedRotation_get_totalOffset_mC129829FFE6CDD96C8885030BDAEF40D569F06C8_AdjustorThunk },
+	{ 0x0600008C, TrackedRotation_Reset_m54545DE2D01827833956AEC4324C136A0CB72425_AdjustorThunk },
+	{ 0x0600008D, TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F033F1D26E_AdjustorThunk },
+	{ 0x0600008E, TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk },
 };
-static const int32_t s_InvokerIndices[152] = 
+static const int32_t s_InvokerIndices[167] = 
 {
 	17901,
 	17901,
 	17901,
-	30746,
+	17683,
+	17901,
+	13449,
+	17901,
+	17469,
+	17683,
+	17901,
+	17683,
+	17901,
+	17901,
+	17901,
+	17901,
+	17901,
+	17901,
+	17901,
+	30747,
 	17901,
 	17901,
 	17901,
@@ -385,7 +430,7 @@ static const int32_t s_InvokerIndices[152] =
 	17901,
 	17901,
 	17901,
-	28442,
+	28443,
 	17901,
 	17901,
 	13523,
@@ -446,7 +491,7 @@ static const int32_t s_InvokerIndices[152] =
 	13621,
 	17794,
 	17901,
-	22243,
+	22244,
 	17901,
 	17901,
 	17901,
@@ -484,7 +529,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	152,
+	167,
 	s_methodPointers,
 	4,
 	s_adjustorThunks,

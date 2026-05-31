@@ -313,6 +313,8 @@ UnityEngine.AnimationState::set_normalizedTime_Injected
 UnityEngine.AnimationState::set_speed_Injected
 UnityEngine.Animator::GetBoolString_Injected
 UnityEngine.Animator::get_hasBoundPlayables_Injected
+UnityEngine.Animator::StringToHash_Injected
+UnityEngine.Animator::Play_Injected
 UnityEngine.Animator::ResetTriggerString_Injected
 UnityEngine.Animator::SetBoolString_Injected
 UnityEngine.Animator::SetTriggerString_Injected

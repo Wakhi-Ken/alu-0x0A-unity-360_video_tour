@@ -1048,7 +1048,9 @@
         "dependencies": [
           {
             "name": "BoxCollider",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/360VideoTour.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -1098,9 +1100,7 @@
           },
           {
             "name": "SphereCollider",
-            "scenes": [
-              "Assets/Scenes/360VideoTour.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -1761,7 +1761,6 @@
           {
             "name": "Font",
             "scenes": [
-              "Assets/Scenes/360VideoTour.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
